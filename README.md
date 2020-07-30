@@ -3,4 +3,4 @@
 
  Repositótio inicial com base nas aulas Curso em Vídeo.
  
- Essa linha eu adicionei diretamente do site! que impresionante!
+ Essa linha eu adicionei diretamente do site! **que impresionante!**
